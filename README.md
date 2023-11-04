@@ -9,7 +9,6 @@ The data we will use comes from the Kaggle platform we already know - https://ww
 
 Therefore, our company was asked to:
 
-- creating a mechanism for downloading data from the shared API,
 - creating a database used for analytical and reporting purposes,
 - feeding the database with downloaded data,
 - performing exploratory analysis of the data set,
